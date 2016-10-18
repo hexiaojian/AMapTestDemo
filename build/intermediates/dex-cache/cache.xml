@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_cde35dcc573b7c971d409ac95c7c4cead699e186/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.12.0_01aa1afb07ddb39759b34677339d3aedb0b444a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_fe0aa882ed67d269c43943f236b9ffb98416ff73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.12.0_ef9397a09e1996e403bb64846ae7f24506943b60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6159799b62faba62377719e0e240e88fc61b41f">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99c634d8b1523031aa35338098059dfd55b2deda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_dc956f11a73621b085877de37f2ca1c354b4ded5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_5e6ad8f6aa41ee7cd9fe4dadbaa1a09702515a55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_31c2cf38d49e1d16307db17482b1f6c87ba213e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_2f17faa164d2f20dcefd4602951ee60d6cb78961/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_ee966ad790c81263c75f0a9325fda225595377c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/libs/AMap_Location_V2.9.0_20160906.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="87ae333ac5ef709c0cdd39fac637fa3c9209dd28">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V2.9.0_20160906_d1420cbf2b09bed1ca3401ade4c75699a39fa84d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_fae222dd41e08dc551cd0bd978ff847cd54f7da6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_54ad212fc88a74ccee8e54c7798aa4710972b6fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0ed8fe8942eb981f199653337d0aa491371fbc58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.12.0_5549048615a4079470df06f1068c15bf3c723614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.12.0_15e0280aadfbe40dbaf4a93f321e3c1312727369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_2c66157cdc51e96cfce4d6711d7d609f09cbfed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.1.2/a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0/logging-interceptor-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.1.2_36c3105b6ea11c660717004d973ef662f4f6c1ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.12.0_02405d8657022a64bc0108c0604cdc02e5a0c3c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_6c5ad9dd09af4a6acdf03bf22cf55d97a5fcc29b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/libs/3DMapV3Dev_152.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f169e265ffad6bbf55dfb8a69e988527cbdd507c">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/2/3DMapV3Dev_152_4aca9a598a4d100ba6cf7904f51fb4a7d54fcc51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6cccce3a706a59e2edefdf97e92930c92fec53ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15830db255450a4a9694cef148c39d6fe06df448">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e28c73d9275b8321f32307b02dd0626e2e630011/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Workspace/Xingka/AMapTest/app/libs/clustermarkerlibrary.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a0bd17a23285d5609e9557415763d346035ef92">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/2/clustermarkerlibrary_58a5b178d2a27ec826bbc86d976845814ead2bb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0_8aec1060361aa6b6499b0a9e6c09910f758e54e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/apple/Workspace/Xingka/AMapTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_4ec80fb36b949e142cc7340897cb407096b811c8/classes.dex" />
+    </item>
+
+</items>
